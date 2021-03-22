@@ -1,0 +1,75 @@
+*
+{
+	font-family:Comic Sans MS;
+	text-decoration:none;
+}
+.navbar
+{
+	background-color:#c23616;
+	display:flex;
+	position:fixed;
+	margin-top:-8px;
+	width:100%;
+}
+.liste li
+{
+	display:inline-block;
+	margin-left:35px;
+}
+.liste li a
+{
+	color:black;
+}
+.liste li a:hover
+{
+	color:white;
+	transition:color 1s;
+}
+.p1
+{
+	margin-right:400px;
+	margin-left:150px;
+}
+.div1
+{
+	height:900px;
+	width:100%;
+	background:url('el suculento9.jpg');
+	object-fit:cover;
+	background-size:cover;
+	display:flex;
+	margin-top:60px;
+}
+.liste2 
+{
+	display:none;
+	position:absolute;
+	color:#c23616;
+}
+.liste li:hover .liste2
+{
+	display:block;
+}
+.liste2 li a 
+{
+	color:white;
+}
+.liste2 li a:hover
+{
+	color:#c23616;
+	transition:color 0s;
+}
+.liste2 li
+{
+	width:70%;
+	height:40px;
+	background-color:black;
+	margin-left:-40px;
+}
+
+
+
+
+
+
+

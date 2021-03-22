@@ -1,0 +1,162 @@
+*
+{
+	font-family:Comic Sans MS;
+	text-decoration:none;
+}
+.navbar
+{
+	background-color:#c23616;
+	display:flex;
+	position:fixed;
+	margin-top:-60px;
+	width:100%;
+}
+.liste li
+{
+	display:inline-block;
+	margin-left:35px;
+}
+.liste li a
+{
+	color:black;
+}
+.liste li a:hover
+{
+	color:white;
+	transition:color 1s;
+}
+.p1
+{
+	margin-right:400px;
+	margin-left:150px;
+}
+.div1
+{
+	height:900px;
+	width:100%;
+	background:url('el suculento9.jpg');
+	object-fit:cover;
+	background-size:cover;
+	display:flex;
+	margin-top:60px;
+}
+.p2
+{
+	font-family:Lucida Handwriting;
+	font-size:70px;
+	text-align:center;
+	margin-left:30%;
+	color:#c23616;
+	background-color:white;
+	height:95px;
+	margin-top:40px;
+}
+.span1
+{
+	margin-top:250px;
+	margin-left:-800px;
+	font-size:30px;
+	color:white;
+}
+.p3
+{
+	text-align:center;
+	font-size:30px;
+	color:#c23616;
+}
+.liste2 
+{
+	display:none;
+	position:absolute;
+	color:#c23616;
+}
+.liste li:hover .liste2
+{
+	display:block;
+}
+.liste2 li a 
+{
+	color:white;
+}
+.liste2 li a:hover
+{
+	color:#c23616;
+	transition:color 0s;
+}
+.liste2 li
+{
+	width:70%;
+	height:40px;
+	background-color:black;
+	margin-left:-40px;
+}
+.p3
+{
+	text-decoration:underline;
+	text-decoration-color:#c23616;
+	
+}
+.p4
+{
+	font-size:25px;
+}
+.div2
+{
+	height:300px;
+	width:100%;
+	background:url('special.jpg');
+	display:flex;
+	color:white;
+	margin-top:80px;
+}
+.bro1
+{
+	width:25%;
+	height:400px;
+	margin-left:70px;
+}
+.bro2
+{
+	width:25%;
+	height:400px;
+}
+.bro3
+{
+	width:25%;
+	height:400px;
+}
+.bro4
+{
+	width:25%;
+	height:400px;
+	margin-right:70px;
+}
+.p55
+{
+	font-size:20px;
+}
+.num1
+{
+	margin-left:90px;
+}
+.p55 a
+{
+	font-size:20px;
+	color:white;
+}
+.p55 a:hover
+{
+	color:black;
+	transition:color 1s;
+}
+.bro3 .p55
+{
+	margin-left:30px;
+}
+
+
+
+
+
+
+

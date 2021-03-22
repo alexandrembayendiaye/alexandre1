@@ -1,0 +1,153 @@
+*
+{
+	font-family:Comic Sans MS;
+	text-decoration:none;
+}
+.navbar
+{
+	background-color:#c23616;
+	display:flex;
+	position:fixed;
+	margin-top:-8px;
+	width:100%;
+}
+.liste li
+{
+	display:inline-block;
+	margin-left:35px;
+}
+.liste li a
+{
+	color:black;
+}
+.liste li a:hover
+{
+	color:white;
+	transition:color 1s;
+}
+.p1
+{
+	margin-right:400px;
+	margin-left:150px;
+}
+.liste2 
+{
+	display:none;
+	position:absolute;
+	color:#c23616;
+}
+.liste li:hover .liste2
+{
+	display:block;
+}
+.liste2 li a 
+{
+	color:white;
+}
+.liste2 li a:hover
+{
+	color:#c23616;
+	transition:color 0s;
+}
+.liste2 li
+{
+	width:70%;
+	height:40px;
+	background-color:black;
+	margin-left:-40px;
+}
+.div1
+{
+	background:url('contact1.jpg');
+	width:100%;
+	height:800px;
+	background-size:cover;
+}
+.div2
+{
+	background-color:#fad390;
+	width:40%;
+	height:450px;
+	margin-left:31%;
+}
+.p2
+{
+	font-size:25px;
+	font-family:Lucida Handwriting;
+}
+.p3
+{
+	font-size:25px;
+}
+.p4
+{
+	font-size:20px;
+}
+.div22
+{
+	height:300px;
+	width:100%;
+	background:url('special.jpg');
+	display:flex;
+	color:white;
+	margin-top:140px;
+	margin-bottom:-30px;
+}
+.bro1
+{
+	width:25%;
+	height:400px;
+	margin-left:70px;
+}
+.bro2
+{
+	width:25%;
+	height:400px;
+}
+.bro3
+{
+	width:25%;
+	height:400px;
+}
+.bro4
+{
+	width:25%;
+	height:400px;
+	margin-right:70px;
+}
+.p55
+{
+	font-size:20px;
+}
+.num1
+{
+	margin-left:90px;
+}
+.p55 a
+{
+	font-size:20px;
+	color:white;
+}
+.p55 a:hover
+{
+	color:black;
+	transition:color 1s;
+}
+.bro3 .p55
+{
+	margin-left:30px;
+}
+.p33
+{
+	font-size:20px;
+}
+
+
+
+
+
+
+
+
+
+
